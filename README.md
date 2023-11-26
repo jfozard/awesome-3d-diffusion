@@ -4,10 +4,10 @@ This repo collects papers that use diffusion models for 3D generation.
 
 ## 2D Diffusion with Pretraining
 ### Text-to-3D
-- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988), Poole et al., Arxiv 2022
-- [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440), Lin et al., Arxiv 2022
-- [Score jacobian chaining: Lifting pretrained 2d diffusion models for 3d generation](https://arxiv.org/abs/2212.00774), Wang et al., Arxiv 2022
-- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873), Chen et al., Arxiv 2023
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988), [Project](https://dreamfusion3d.github.io/), No Code. Poole et al., Arxiv 2022
+- [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440),  [Project](https://research.nvidia.com/labs/dir/magic3d/), No Code. Lin et al., Arxiv 2022
+- [Score jacobian chaining: Lifting pretrained 2d diffusion models for 3d generation](https://arxiv.org/abs/2212.00774), [Project](https://pals.ttic.edu/p/score-jacobian-chaining), [Code](https://github.com/pals-ttic/sjc/) Wang et al., Arxiv 2022
+- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873), [Project](https://fantasia3d.github.io/), [Code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) Chen et al., Arxiv 2023
 - [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937), Seo et al., Arxiv 2023
 - [DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://arxiv.org/abs/2304.02827), Seo et al., Arxiv 2023
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://arxiv.org/abs/2304.12439), Tsalicoglou et al., Arxiv 2023
